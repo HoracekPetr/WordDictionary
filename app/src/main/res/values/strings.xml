@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Horin\'s English Word Dictionary</string>
+    <string name="eng">ENG</string>
+    <string name="cz">CZ</string>
+    <string name="add_to_dictionary">Add to dictionary</string>
+    <string name="eng_word">English Word</string>
+    <string name="cz_word">Czech Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="my_english_dictionary">My English Dictionary</string>
+</resources>
